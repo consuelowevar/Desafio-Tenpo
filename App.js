@@ -1,7 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import Form from './Components/Form';
-// import { MaterialCommuntyIcons as Icon } from 'react-native-vector-icons'
  
 export default function App() {
   return (
